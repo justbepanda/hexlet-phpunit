@@ -1,9 +1,9 @@
 <?php
 
-
 namespace Hexlet\Phpunit\Tests;
 
 use PHPUnit\Framework\TestCase;
+
 use function Hexlet\Phpunit\Utils\reverseString;
 
 // класс UtilsTest наследует класс TestCase
